@@ -1,5 +1,6 @@
 autogen
-openai
-graphviz
+autogen-agentchat
 python-dotenv
+groq
+
 pandas
