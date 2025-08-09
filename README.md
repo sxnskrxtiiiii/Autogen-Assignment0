@@ -22,8 +22,8 @@ The **UserProxyAgent** acts as the main interface for human feedback and decisio
 
 ### 1. Clone the repository
 
-git clone [https://github.com/sxnskrxtiiiii/Autogen-Assignment0](https://github.com/sxnskrxtiiiii/Autogen-Assignment0)
-cd Autogen-Assignment0
+git clone {{GITHUB_REPO_LINK}}
+cd {{FOLDER_NAME}}
 
 ### 2. Install dependencies
 
@@ -88,3 +88,4 @@ The system is designed with:
 ![Flowchart](flowchart.png)
 
 ---
+
