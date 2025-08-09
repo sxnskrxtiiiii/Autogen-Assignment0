@@ -83,9 +83,8 @@ The system is designed with:
 
 ---
 
-## 📌 Flowchart
+📌 Flowchart  
+![Disaster Management Flowchart](flowchart.png)
 
-![Flowchart](flowchart.png)
 
----
 
